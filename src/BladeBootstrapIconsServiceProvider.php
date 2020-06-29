@@ -9,10 +9,12 @@ class BladeBootstrapIconsServiceProvider extends ServiceProvider
 {
     public function boot()
     {
-        $this->app->make(Factory::class)->add('bootstrap-icons', [
-            'path' => __DIR__ . '/../resources/svg',
-            'prefix' => 'bi',
-        ]);
+        $this->callAfterResolving(Factory::class, function (Factory $factory) {
+            $factory->add('bootstrap-icons', [
+                'path' => __DIR__ . '/../resources/svg',
+                'prefix' => 'bi',
+            ]);
+        });
 
         if ($this->app->runningInConsole()) {
             $this->publishes([
