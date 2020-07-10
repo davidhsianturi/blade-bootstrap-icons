@@ -7,7 +7,7 @@ use Illuminate\Support\ServiceProvider;
 
 class BladeBootstrapIconsServiceProvider extends ServiceProvider
 {
-    public function boot()
+    public function register()
     {
         $this->callAfterResolving(Factory::class, function (Factory $factory) {
             $factory->add('bootstrap-icons', [
@@ -15,7 +15,10 @@ class BladeBootstrapIconsServiceProvider extends ServiceProvider
                 'prefix' => 'bi',
             ]);
         });
+    }
 
+    public function boot()
+    {
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__ . '/../resources/svg' => public_path('vendor/blade-bootstrap-icons'),
