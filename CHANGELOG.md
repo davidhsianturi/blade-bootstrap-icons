@@ -2,7 +2,18 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/0.2.1...master)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/0.3.0...master)
+
+## [0.3.0 (2020-08-31)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.3.0...v0.2.1)
+
+## Changes
+- v1.0.0 stable icons [#9](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/9)
+
+## 📦 Dependencies
+- Bump bootstrap-icons from 1.0.0-alpha5 to 1.0.0 [#8](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/8)
+- Bump laravel-mix from 5.0.4 to 5.0.5 [#7](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/7)
+- Bump lodash from 4.17.15 to 4.17.19 [#6](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/6)
+
 
 ## [0.2.1 (2020-07-10)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.2.0...v0.2.1)
 
