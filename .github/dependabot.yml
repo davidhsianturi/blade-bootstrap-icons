@@ -8,7 +8,7 @@ updates:
       interval: weekly
     labels:
       - dependencies
-    versioning-strategy: increase-if-necessary
+    versioning-strategy: increase
     rebase-strategy: disabled
 
   # Maintain dependencies for Composer.
