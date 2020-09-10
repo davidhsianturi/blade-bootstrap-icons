@@ -2,15 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/0.4.0...master)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v0.4.0)
 
-## [0.4.0 (2020-09-11)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.4.0...v0.3.0)
+## [0.4.0 (2020-09-11)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.3.0...v0.4.0)
 
 ## Changes
 - Support Laravel 8.x [#15](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/15)
 
 
-## [0.3.0 (2020-08-31)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.3.0...v0.2.1)
+## [0.3.0 (2020-08-31)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.2.1...v0.3.0)
 
 ## Changes
 - v1.0.0 stable icons [#9](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/9)
@@ -27,7 +27,7 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 - Fix callAfterResolving [#5](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/5)
 
 
-## [0.2.0 (2020-06-29)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.1.0...v0.2.0)
+## [0.2.0 (2020-06-29)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/0.1.0...v0.2.0)
 
 ## Changes
 - Alpha5 icons [#4](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/4)
