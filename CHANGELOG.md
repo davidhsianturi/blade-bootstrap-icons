@@ -2,7 +2,13 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/0.3.0...master)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/0.4.0...master)
+
+## [0.4.0 (2020-09-11)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.4.0...v0.3.0)
+
+## Changes
+- Support Laravel 8.x [#15](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/15)
+
 
 ## [0.3.0 (2020-08-31)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.3.0...v0.2.1)
 
