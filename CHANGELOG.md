@@ -2,7 +2,19 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v0.4.0)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v0.5.0)
+
+## [0.5.0 (2020-11-02)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.4.0...v0.5.0)
+
+## Changes
+- Drop php 7.2 support [#21](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/21)
+
+## 📦 Dependencies
+- PHP 8 Support [#20](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/20)
+- Bump bootstrap-icons from 1.0.0 to 1.1.0 [#19](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/19)
+- Update blade-ui-kit/blade-icons requirement from ^0.4.5 to ^0.5.0 [#18](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/18)
+- Bump laravel-mix from 5.0.5 to 5.0.7 [#17](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/17)
+
 
 ## [0.4.0 (2020-09-11)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.3.0...v0.4.0)
 
