@@ -2,7 +2,18 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v0.5.0)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v0.6.0)
+
+## [0.6.0 (2020-12-14)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.5.0...v0.6.0)
+
+## Changes
+
+- Added Bootstrap Icons v1.2.0 
+
+## 📦 Dependencies
+
+- Bump bootstrap-icons from 1.1.0 to 1.2.1 [#25](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/25)
+
 
 ## [0.5.0 (2020-11-02)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.4.0...v0.5.0)
 
