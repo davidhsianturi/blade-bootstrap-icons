@@ -5,7 +5,7 @@
         "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
     },
     "devDependencies": {
-        "bootstrap-icons": "^1.2.1",
+        "bootstrap-icons": "^1.2.2",
         "cross-env": "^7.0.3",
         "laravel-mix": "^5.0.9"
     }
