@@ -2,7 +2,21 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v1.0.0)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v1.1.0)
+
+## [1.1.0 (2021-06-13)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.0.0...v1.1.0)
+
+## Changes
+
+- Update Bootstrap icons from 1.4.0 to 1.5.0 [#40](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/40)
+
+## 📦 Dependencies
+
+- Bump bootstrap-icons from 1.4.1 to 1.5.0 [#38](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/38)
+- Bump laravel-mix from 6.0.18 to 6.0.19 [#37](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/37)
+- Bump laravel-mix from 6.0.16 to 6.0.18 [#36](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/36)
+- Bump bootstrap-icons from 1.4.0 to 1.4.1 [#35](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/35)
+- Bump laravel-mix from 6.0.13 to 6.0.16 [#34](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/34)
 
 ## [1.0.0 (2021-03-22)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v0.8.0...v1.0.0)
 
