@@ -2,7 +2,27 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/master...v1.1.0)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.2.0...master)
+
+## [1.2.0 (2021-12-01)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.1.0...v1.2.0)
+
+## Changes
+
+- Update Bootstrap icons from v1.5.0 to 1.7.1 [#57](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/57)
+
+## 📦 Dependencies
+
+- Bump bootstrap-icons from 1.5.0 to 1.7.1 [#55](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/55)
+- Bump laravel-mix from 6.0.37 to 6.0.39 [#54](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/54)
+- Bump laravel-mix from 6.0.34 to 6.0.37 [#51](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/51)
+- Bump laravel-mix from 6.0.32 to 6.0.34 [#49](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/49)
+- Bump laravel-mix from 6.0.31 to 6.0.32 [#47](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/47)
+- Bump laravel-mix from 6.0.29 to 6.0.31 [#46](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/46)
+- Bump laravel-mix from 6.0.28 to 6.0.29 [#45](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/45)
+- Bump laravel-mix from 6.0.27 to 6.0.28 [#44](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/44)
+- Bump laravel-mix from 6.0.25 to 6.0.27 [#43](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/43)
+- Bump laravel-mix from 6.0.24 to 6.0.25 [#42](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/42)
+- Bump laravel-mix from 6.0.19 to 6.0.24 [#41](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/41)
 
 ## [1.1.0 (2021-06-13)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.0.0...v1.1.0)
 
