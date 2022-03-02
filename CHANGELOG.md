@@ -2,7 +2,24 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.2.0...master)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.3.0...master)
+
+## [1.3.0 (2022-03-02)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.2.0...v1.3.0)
+
+## Changes
+
+- Add Laravel 9 support [#71](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/71)
+- PHP 8.1 [#69](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/69)
+- Update Bootstrap icons from v1.7.1 to 1.8.1 [#68](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/68)
+
+## 📦 Dependencies
+
+- Bump laravel-mix from 6.0.42 to 6.0.43 [#70](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/70)
+- Bump bootstrap-icons from 1.7.1 to 1.8.1 [#63](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/63)
+- Bump nanoid from 3.1.30 to 3.3.1 [#67](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/67)
+- Bump ansi-regex from 5.0.0 to 5.0.1 [#66](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/66)
+- Bump laravel-mix from 6.0.39 to 6.0.42 [#64](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/64)
+- Bump follow-redirects from 1.14.5 to 1.14.8 ([62](https://github.com/davidhsianturi/blade-bootstrap-icons/pull/62)
 
 ## [1.2.0 (2021-12-01)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.1.0...v1.2.0)
 
