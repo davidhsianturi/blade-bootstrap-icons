@@ -5,7 +5,7 @@
         "development": "mix"
     },
     "devDependencies": {
-        "bootstrap-icons": "^1.8.1",
+        "bootstrap-icons": "^1.9.1",
         "cross-env": "^7.0.3",
         "laravel-mix": "^6.0.43"
     }
