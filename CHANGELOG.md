@@ -2,7 +2,29 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.3.0...master)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.4.0...master)
+
+## [1.4.0 (2023-03-17)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.3.0...v1.4.0)
+
+## Changes
+
+- Laravel 10.x Compatibility (#90)
+- Bootstrap icons v1.10.3 (#98)
+
+## 📦 Dependencies
+
+- Bump bootstrap-icons from 1.8.1 to 1.10.3 (#88)
+- Bump webpack from 5.61.0 to 5.76.2 (#97)
+- Bump json5 from 1.0.1 to 1.0.2 (#89)
+- Bump terser from 4.8.0 to 4.8.1 (#80)
+- Bump laravel-mix from 6.0.43 to 6.0.49 (#78)
+- Bump async from 2.6.3 to 2.6.4 (#74)
+- Bump node-forge from 1.2.1 to 1.3.1 (#96)
+- Bump minimatch from 3.0.4 to 3.1.2 (#95)
+- Bump minimist from 1.2.5 to 1.2.8 (#94)
+- Bump express from 4.17.2 to 4.18.2 (#87)
+- Bump qs and express (#86)
+- Bump loader-utils from 1.4.0 to 1.4.2 (#85)
 
 ## [1.3.0 (2022-03-02)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.2.0...v1.3.0)
 
