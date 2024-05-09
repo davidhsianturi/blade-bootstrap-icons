@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.4.0...master)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.5.0...master)
+
+## [1.5.0 (2024-05-09)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.4.0...v1.5.0)
+
+## Changes
+
+- Bootstrap icons v1.11.3 (#113)
+- Laravel 11.x Compatibility (#103)
+- Bootstrap icons v1.10.5 (#112)
 
 ## [1.4.0 (2023-03-17)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.3.0...v1.4.0)
 
