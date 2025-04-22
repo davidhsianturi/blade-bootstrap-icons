@@ -1,5 +1,7 @@
 /node_modules
 /vendor
+/.phpunit.cache
 composer.lock
 npm-debug.log
+phpunit.xml.dist.bak
 .phpunit.result.cache
