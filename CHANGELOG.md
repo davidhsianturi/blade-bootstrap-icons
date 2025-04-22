@@ -2,7 +2,14 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.5.0...master)
+## [Unreleased](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v2.0.0...main)
+
+## [2.0.0 (2025-04-22)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.5.0...v2.0.0)
+
+## Changes
+
+- Laravel 12 support (#123)
+- Drop PHP 7.4 and Laravel 8 (#99)
 
 ## [1.5.0 (2024-05-09)](https://github.com/davidhsianturi/blade-bootstrap-icons/compare/v1.4.0...v1.5.0)
 
